@@ -1,0 +1,13 @@
+---
+galaxy_info:
+  author: Muhammad Taqi
+  description: An Ansible role for installing VirtualBox.
+  min_ansible_version: 2
+  platforms:
+  - name: Ubuntu
+    versions:
+    - xenial
+    - trusty
+  categories:
+  - system
+dependencies: []
